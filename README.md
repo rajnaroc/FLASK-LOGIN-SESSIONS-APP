@@ -11,7 +11,11 @@
 - **Control de Versiones:** Git
 
 ## Instalación
+Instrucciones para instalar tu proyecto. Por ejemplo:
 
-1- En terminal pones este comando:
-  python ./src/app.py
-2 
+```sh
+git clone https://github.com/rajnaroc/FLASK-LOGIN-SESSIONS-APP
+cd FLASK-LOGIN-SESSIONS-APP
+pip install -r requirements.txt
+
+ 
